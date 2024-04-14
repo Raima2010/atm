@@ -1,4 +1,4 @@
-#!/usr/bin/env
+
 import inquirer from "inquirer";
 
 let myBalance= 10000; //dollar
